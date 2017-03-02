@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/freemarker-2.3.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/mysql-connector-java-3.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/ognl-2.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/struts2-core-2.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/asus1/Desktop/excel_web_drdc/WebRoot/WEB-INF/lib/xwork-2.1.2.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

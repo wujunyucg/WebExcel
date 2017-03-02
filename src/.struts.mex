@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="default" location="0,0" size="0,0">
+    <action name="importdata-*" location="0,0" size="0,0">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="importList.jsp" />
+      </result>
+    </action>
+  </package>
+  <webResource name="usergrid.jsp" path="/jsp/usergrid.jsp" location="335,185" size="150,55" />
+  <webResource name="error.jsp" path="/jsp/error.jsp" location="99,10" size="150,55" />
+  <webResource name="importList.jsp" path="/jsp/importList.jsp" location="0,0" size="0,0" />
+</Struts2Diagram>
+

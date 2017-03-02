@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="default" namespace="/" extends="struts-default">
+    		<action name="importdata-*" class="com.imooc.drdc.action.ImportDataAction" method="{1}">
+	       		<result>/jsp/importList.jsp</result>
+	       </action>			
+	       <action name="download" class="com.imooc.drdc.action.FileDownloadAction">
+	       		<result name="success" type="stream">
+	       			<param name="contentType">application/octet-stream</param>
+	       			<param name="inputName">inputStream</param>
+	       			<param name="contentDisposition">attachment;filename="${downloadFileName}"</param>
+	       			<param name="bufferSize">8192</param>
+	       		</result>
+	       </action>
+	       <action name="student-*" class="com.imooc.drdc.action.StudentAction" method="{1}">
+	       		<result>/jsp/studentList.jsp</result>
+	       </action>
+    </package>
+</struts>
